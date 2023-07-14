@@ -1,0 +1,13 @@
+# Ignore all logfiles and tempfiles.
+/log/*
+*.log
+/tmp/*
+*.temp
+
+.DS_Store
+
+# Ignore uploaded files in development
+/node_modules
+
+# Ignore specified local files and folders
+_local*
